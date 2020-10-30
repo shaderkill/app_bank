@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ev02-CristianMolina</string>
+    <string name="bienvenido_a_banco_bpm_donde_podr_s_manejar_tus_finanzas_y_solicitar_los_prestamos_de_nuestro_banco_ofrecemos_los_mejores_beneficios_para_nuestros_clientes_no_esperes_m_s_y_se_parte_de_uno_de_lo_bancos_m_s_grandes_de_latino_am_rica_comienza_a_ganar_con_nosotros_y_a_cumplir_tus_sue_os">Bienvenido a Banco BPM, donde podrás manejar tus finanzas y solicitar los prestamos de nuestro banco, ofrecemos los mejores beneficios para nuestros clientes. No esperes más y se parte de uno de lo bancos más grandes de latino américa, comienza a ganar con nosotros y a cumplir tus sueños.</string>
+    <string name="calcular_prestamo">Calcular Prestamo</string>
+    <string name="calcular_deudas">Calcular Deudas</string>
+    <string name="icono_dinero">icono dinero</string>
+    <string name="ingrese_un_c_digo">Ingrese un código</string>
+    <string name="ingrese_un_nombre">Ingrese un nombre</string>
+    <string name="ingrese_un_salario">Ingrese un salario</string>
+</resources>
